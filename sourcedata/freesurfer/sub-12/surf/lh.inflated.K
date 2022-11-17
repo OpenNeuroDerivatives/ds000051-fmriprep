@@ -1,1 +1,1 @@
-/annex/objects/MD5E-s488923--4f636b23586b99d0ee552b86f443824f.K
+../../../../.git/annex/objects/vw/PK/MD5E-s488923--4f636b23586b99d0ee552b86f443824f.K/MD5E-s488923--4f636b23586b99d0ee552b86f443824f.K
