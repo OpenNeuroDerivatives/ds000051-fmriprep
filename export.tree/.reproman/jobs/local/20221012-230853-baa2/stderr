@@ -1,9 +1,0 @@
-Warning: Permanently added 'c145-072' (ED25519) to the list of known hosts.
-WARNING (10/13/22 16:00:29): LAUNCHER_WORKDIR variable not set. Using current directory.
-using /tmp/launcher.4916981.hostlist.qGrjiQQU to get hosts
-starting job on c145-072
-starting job on c167-191
-starting job on c171-211
-starting job on c172-064
-slurmstepd: error: *** JOB 4916981 ON c145-072 CANCELLED AT 2022-10-13T18:49:49 ***
-Terminated
